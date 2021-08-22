@@ -1,0 +1,30 @@
+﻿@model NewsApp.Models.Informations
+
+@{
+    ViewData["Title"] = "OnePostDetails";
+    Layout= "_DetailsLayout";
+}
+
+<div class="container">
+    <div class="well">
+
+        <div class="media">
+            @if (Model.ImageURL != null)
+            {
+                <img style="width: 338px; height:400px; Padding: 5px; border: 1px solid #ddd; border-radius: 2px; "  src="~/UploadImages/@Model.ImageURL" >
+            }
+                <div class="container">
+                    <h2 class="media-heading">@Html.DisplayFor(model => model.Title)</h2>
+                    <h4 class="media-heading">Section : @Html.DisplayFor(model => model.Section.SectionName)</h4>
+                    <h6 style="word-break:break-all;">
+                        @Html.DisplayFor(model => model.Discription)
+                    </h6>
+                    <ul class="list-inline list-unstyled">
+                        <li><span><i class="glyphicon glyphicon-calendar"></i>  @Html.DisplayFor(model => model.Date)</span></li>
+
+
+                    </ul>
+                </div>
+            </div>
+    </div>
+</div>

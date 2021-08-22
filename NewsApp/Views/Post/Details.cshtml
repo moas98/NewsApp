@@ -1,0 +1,44 @@
+﻿@model NewsApp.Models.Informations
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+<div class="container bootdey">
+    <div class="col-md-12">
+        <section class="panel">
+            <div class="panel-body">
+                <div class="col-md-6">
+                    @if (Model.ImageURL !=null)
+                    {
+                    <div class="pro-img-details">
+                        <img src="~/UploadImages/@Model.ImageURL"   style="vertical-align: middle;"class="w-75 img-thumbnail" />
+                    </div>
+                    }
+                    
+                </div>
+                <div class="col-md-6">
+                    <h4 class="pro-d-title">
+                        <a href="#" class="">
+                            @Html.DisplayFor(model => model.Title)
+                        </a>
+                    </h4>
+                    <p>
+                        @Html.DisplayFor(model => model.Discription)
+                    </p>
+                    <div class="product_meta">
+                        <b> Id: @Html.DisplayFor(model => model.id)</b><br />
+                        <b> Date: @Html.DisplayFor(model => model.Date)</b><br />
+                        <b> Section: @Html.DisplayFor(model => model.Section.SectionName)</b>
+                    </div>  <br />                 
+                    <div>
+                        <a asp-controller="Post" asp-action="Edit" asp-route-id="@Model.id" class="btn btn-round btn-info" type="button">Edite</a>
+                        <a asp-controller="Post" asp-action="Index" asp-route-id="@Model.id" class="btn btn-round btn-info" type="button">Back to Admin Home Page</a>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+</div>
+

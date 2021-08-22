@@ -1,0 +1,784 @@
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\NewsApp.exe
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\NewsApp.deps.json
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\NewsApp.runtimeconfig.json
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\NewsApp.runtimeconfig.dev.json
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\NewsApp.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\NewsApp.pdb
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\NewsApp.Views.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\NewsApp.Views.pdb
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\NewsApp.csproj.AssemblyReference.cache
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\NewsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\NewsApp.AssemblyInfoInputs.cache
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\NewsApp.AssemblyInfo.cs
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\NewsApp.csproj.CoreCompileInputs.cache
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\NewsApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\NewsApp.RazorAssemblyInfo.cache
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\NewsApp.RazorAssemblyInfo.cs
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\staticwebassets\NewsApp.StaticWebAssets.Manifest.cache
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\staticwebassets\NewsApp.StaticWebAssets.xml
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\scopedcss\bundle\NewsApp.styles.css
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\NewsApp.TagHelpers.input.cache
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\NewsApp.TagHelpers.output.cache
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\NewsApp.RazorCoreGenerate.cache
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\NewsApp.RazorTargetAssemblyInfo.cache
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\NewsApp.RazorTargetAssemblyInfo.cs
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\NewsApp.Views.pdb
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\NewsApp.csproj.CopyComplete
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\NewsApp.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\NewsApp.pdb
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\NewsApp.genruntimeconfig.cache
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\Razor\Views\Sections\Index.cshtml.g.cs
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\Razor\Views\Sections\Create.cshtml.g.cs
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\Razor\Views\Sections\Details.cshtml.g.cs
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\Razor\Views\Sections\Edit.cshtml.g.cs
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\Razor\Views\Sections\Delete.cshtml.g.cs
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\Razor\Views\Post\Index.cshtml.g.cs
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\Razor\Views\Post\Details.cshtml.g.cs
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\Razor\Views\Post\Create.cshtml.g.cs
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\Razor\Views\Post\Edit.cshtml.g.cs
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\Razor\Views\Post\Delete.cshtml.g.cs
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\Razor\Views\Post\UserIndex.cshtml.g.cs
+C:\Users\KF\Desktop\Projects\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\Razor\Views\Post\OnePostDetails.cshtml.g.cs
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\NewsApp.exe
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\NewsApp.deps.json
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\NewsApp.runtimeconfig.json
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\NewsApp.runtimeconfig.dev.json
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\NewsApp.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\NewsApp.pdb
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\NewsApp.Views.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\NewsApp.Views.pdb
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\NewsApp.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\NewsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\NewsApp.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\NewsApp.AssemblyInfo.cs
+C:\Users\HP\Desktop\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\NewsApp.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\NewsApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Desktop\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\NewsApp.RazorAssemblyInfo.cache
+C:\Users\HP\Desktop\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\NewsApp.RazorAssemblyInfo.cs
+C:\Users\HP\Desktop\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\staticwebassets\NewsApp.StaticWebAssets.Manifest.cache
+C:\Users\HP\Desktop\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\staticwebassets\NewsApp.StaticWebAssets.xml
+C:\Users\HP\Desktop\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\scopedcss\bundle\NewsApp.styles.css
+C:\Users\HP\Desktop\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\NewsApp.TagHelpers.input.cache
+C:\Users\HP\Desktop\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\NewsApp.TagHelpers.output.cache
+C:\Users\HP\Desktop\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\NewsApp.RazorCoreGenerate.cache
+C:\Users\HP\Desktop\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\Razor\Views\Post\Create.cshtml.g.cs
+C:\Users\HP\Desktop\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\Razor\Views\Post\Delete.cshtml.g.cs
+C:\Users\HP\Desktop\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\Razor\Views\Post\Details.cshtml.g.cs
+C:\Users\HP\Desktop\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\Razor\Views\Post\Edit.cshtml.g.cs
+C:\Users\HP\Desktop\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\Razor\Views\Post\Index.cshtml.g.cs
+C:\Users\HP\Desktop\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\Razor\Views\Post\OnePostDetails.cshtml.g.cs
+C:\Users\HP\Desktop\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\Razor\Views\Post\UserIndex.cshtml.g.cs
+C:\Users\HP\Desktop\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\Razor\Views\Sections\Create.cshtml.g.cs
+C:\Users\HP\Desktop\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\Razor\Views\Sections\Delete.cshtml.g.cs
+C:\Users\HP\Desktop\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\Razor\Views\Sections\Details.cshtml.g.cs
+C:\Users\HP\Desktop\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\Razor\Views\Sections\Edit.cshtml.g.cs
+C:\Users\HP\Desktop\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\Razor\Views\Sections\Index.cshtml.g.cs
+C:\Users\HP\Desktop\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\HP\Desktop\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\HP\Desktop\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\HP\Desktop\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\HP\Desktop\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\HP\Desktop\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\NewsApp.RazorTargetAssemblyInfo.cache
+C:\Users\HP\Desktop\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\NewsApp.RazorTargetAssemblyInfo.cs
+C:\Users\HP\Desktop\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\NewsApp.Views.pdb
+C:\Users\HP\Desktop\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\NewsApp.csproj.CopyComplete
+C:\Users\HP\Desktop\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\NewsApp.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\NewsApp.pdb
+C:\Users\HP\Desktop\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\NewsApp.genruntimeconfig.cache
+C:\Users\HP\Desktop\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_HomeLayout.cshtml.g.cs
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\NewsApp.StaticWebAssets.xml
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\NewsApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\HP\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\NewsApp.StaticWebAssets.xml
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\NewsApp.exe
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\NewsApp.deps.json
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\NewsApp.runtimeconfig.json
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\NewsApp.runtimeconfig.dev.json
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\NewsApp.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\NewsApp.pdb
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\NewsApp.Views.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\NewsApp.Views.pdb
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\NewsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\NewsApp.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\NewsApp.AssemblyInfo.cs
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\NewsApp.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\NewsApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\NewsApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\NewsApp.RazorAssemblyInfo.cache
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\NewsApp.RazorAssemblyInfo.cs
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\staticwebassets\NewsApp.StaticWebAssets.Manifest.cache
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\staticwebassets\NewsApp.StaticWebAssets.xml
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\scopedcss\bundle\NewsApp.styles.css
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\NewsApp.TagHelpers.input.cache
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\NewsApp.TagHelpers.output.cache
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\NewsApp.RazorCoreGenerate.cache
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\Razor\Views\Post\Create.cshtml.g.cs
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\Razor\Views\Post\Delete.cshtml.g.cs
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\Razor\Views\Post\Details.cshtml.g.cs
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\Razor\Views\Post\Edit.cshtml.g.cs
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\Razor\Views\Post\Index.cshtml.g.cs
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\Razor\Views\Post\OnePostDetails.cshtml.g.cs
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\Razor\Views\Post\UserIndex.cshtml.g.cs
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\Razor\Views\Sections\Create.cshtml.g.cs
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\Razor\Views\Sections\Delete.cshtml.g.cs
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\Razor\Views\Sections\Details.cshtml.g.cs
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\Razor\Views\Sections\Edit.cshtml.g.cs
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\Razor\Views\Sections\Index.cshtml.g.cs
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_HomeLayout.cshtml.g.cs
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\NewsApp.RazorTargetAssemblyInfo.cache
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\NewsApp.RazorTargetAssemblyInfo.cs
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\NewsApp.Views.pdb
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\NewsApp.csproj.CopyComplete
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\NewsApp.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\NewsApp.pdb
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\NewsApp.genruntimeconfig.cache
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\NewsApp.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\HP\Desktop\ASP Core Test\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\NewsApp.StaticWebAssets.xml
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\NewsApp.exe
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\NewsApp.deps.json
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\NewsApp.runtimeconfig.json
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\NewsApp.runtimeconfig.dev.json
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\NewsApp.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\NewsApp.pdb
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\NewsApp.Views.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\NewsApp.Views.pdb
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\NewsApp.csproj.AssemblyReference.cache
+C:\Users\KF\Desktop\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\NewsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KF\Desktop\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\NewsApp.AssemblyInfoInputs.cache
+C:\Users\KF\Desktop\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\NewsApp.AssemblyInfo.cs
+C:\Users\KF\Desktop\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\NewsApp.csproj.CoreCompileInputs.cache
+C:\Users\KF\Desktop\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\NewsApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\KF\Desktop\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\NewsApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\KF\Desktop\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\NewsApp.RazorAssemblyInfo.cache
+C:\Users\KF\Desktop\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\NewsApp.RazorAssemblyInfo.cs
+C:\Users\KF\Desktop\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\staticwebassets\NewsApp.StaticWebAssets.Manifest.cache
+C:\Users\KF\Desktop\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\staticwebassets\NewsApp.StaticWebAssets.xml
+C:\Users\KF\Desktop\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\scopedcss\bundle\NewsApp.styles.css
+C:\Users\KF\Desktop\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\NewsApp.TagHelpers.input.cache
+C:\Users\KF\Desktop\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\NewsApp.TagHelpers.output.cache
+C:\Users\KF\Desktop\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\NewsApp.RazorCoreGenerate.cache
+C:\Users\KF\Desktop\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\KF\Desktop\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\KF\Desktop\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\Razor\Views\Post\Create.cshtml.g.cs
+C:\Users\KF\Desktop\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\Razor\Views\Post\Delete.cshtml.g.cs
+C:\Users\KF\Desktop\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\Razor\Views\Post\Details.cshtml.g.cs
+C:\Users\KF\Desktop\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\Razor\Views\Post\Edit.cshtml.g.cs
+C:\Users\KF\Desktop\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\Razor\Views\Post\Index.cshtml.g.cs
+C:\Users\KF\Desktop\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\Razor\Views\Post\OnePostDetails.cshtml.g.cs
+C:\Users\KF\Desktop\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\Razor\Views\Post\UserIndex.cshtml.g.cs
+C:\Users\KF\Desktop\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\Razor\Views\Sections\Create.cshtml.g.cs
+C:\Users\KF\Desktop\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\Razor\Views\Sections\Delete.cshtml.g.cs
+C:\Users\KF\Desktop\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\Razor\Views\Sections\Details.cshtml.g.cs
+C:\Users\KF\Desktop\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\Razor\Views\Sections\Edit.cshtml.g.cs
+C:\Users\KF\Desktop\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\Razor\Views\Sections\Index.cshtml.g.cs
+C:\Users\KF\Desktop\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\KF\Desktop\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_HomeLayout.cshtml.g.cs
+C:\Users\KF\Desktop\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\KF\Desktop\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\KF\Desktop\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\KF\Desktop\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\KF\Desktop\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\NewsApp.RazorTargetAssemblyInfo.cache
+C:\Users\KF\Desktop\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\NewsApp.RazorTargetAssemblyInfo.cs
+C:\Users\KF\Desktop\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\NewsApp.Views.pdb
+C:\Users\KF\Desktop\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\NewsApp.csproj.CopyComplete
+C:\Users\KF\Desktop\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\NewsApp.dll
+C:\Users\KF\Desktop\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\NewsApp.pdb
+C:\Users\KF\Desktop\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\NewsApp.genruntimeconfig.cache
+C:\Users\KF\Desktop\NewsApp\NewsApp\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\KF\Desktop\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\Razor\Views\Roule\CreateRoul.cshtml.g.cs
+C:\Users\KF\Desktop\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\Razor\Views\Roule\RoleList.cshtml.g.cs
+C:\Users\KF\Desktop\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\Razor\Views\Roule\EditRole.cshtml.g.cs
+C:\Users\KF\Desktop\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\Razor\Views\Roule\EditUsersInRole.cshtml.g.cs
+C:\Users\KF\Desktop\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\Razor\Views\Account\AccessDenied.cshtml.g.cs
+C:\Users\KF\Desktop\NewsApp\NewsApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_DetailsLayout.cshtml.g.cs

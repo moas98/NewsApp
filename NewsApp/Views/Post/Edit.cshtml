@@ -1,0 +1,58 @@
+﻿@model NewsApp.ViewModel.SectionInfoModel
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>SectionInfoModel</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="InfoId" class="control-label"></label>
+                <input asp-for="InfoId" readonly class="form-control" />
+                <span asp-validation-for="InfoId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Title" class="control-label"></label>
+                <input asp-for="Title" class="form-control" />
+                <span asp-validation-for="Title" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Discription" class="control-label"></label>
+                <textarea asp-for="Discription" class="form-control" style="width: 100%;height:200px; padding: 12px; border: 1px solid #ccc; border-radius: 4px; resize: vertical;" ></textarea>
+                <span asp-validation-for="Discription" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="File" class="control-label"></label>
+                <input type="file" name="File" asp-for="File" class="form-control" />
+                <span asp-validation-for="File" class="text-danger"></span>
+                <img src="~/UploadImages/@Model.ImageURL" style="width:124px;" class="img-thumbnail" />
+            </div>
+            <input type="hidden" asp-for="ImageURL" class="form-control" />
+            <div class="form-group">
+                <label asp-for="Date" class="control-label"></label>
+                <input asp-for="Date" class="form-control" />
+                <span asp-validation-for="Date" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="SecId" class="control-label"></label>
+                <select asp-for="SecId" class="form-control"
+                        asp-items="@(new SelectList(Model.Sections, "id", "SectionName"))"></select>
+                <span asp-validation-for="SecId" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+                <a asp-action="Index" class="btn btn-primary">Back to List</a>
+            </div>
+        </form>
+    </div>
+</div>
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
