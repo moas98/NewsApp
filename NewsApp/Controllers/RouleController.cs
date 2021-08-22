@@ -10,6 +10,7 @@ using System.Threading.Tasks;
 
 namespace NewsApp.Controllers
 {
+    [Authorize (Role="Owner")]
     public class RouleController : Controller
     {
         
