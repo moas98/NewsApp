@@ -52,6 +52,10 @@ namespace NewsApp
             })
                 .AddEntityFrameworkStores<ApplicationDbContext>()
                 .AddDefaultTokenProviders();
+            services.ConfigureApplicationCookie(options =>
+    {
+        options.AccessDeniedPath = new PathString("/Administration/AccessDenied");
+    });
            
         }
 
