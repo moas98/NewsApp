@@ -54,7 +54,7 @@ namespace NewsApp
                 .AddDefaultTokenProviders();
             services.ConfigureApplicationCookie(options =>
     {
-        options.AccessDeniedPath = new PathString("/Administration/AccessDenied");
+        options.AccessDeniedPath = new PathString("/Account/AccessDenied");
     });
            
         }
